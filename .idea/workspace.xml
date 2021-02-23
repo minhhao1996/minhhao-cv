@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd666d3e-13c3-47cf-a5a7-7fe8cdfe2389" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/image/rsg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/srg1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +33,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\Desktop\minhhao-cv\image" />
       <recent name="C:\Users\ADMIN\Desktop\cv\image" />
     </key>
   </component>
@@ -44,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582600350574</updated>
       <workItem from="1582600351740" duration="6964000" />
-      <workItem from="1614051609923" duration="32000" />
+      <workItem from="1614051609923" duration="793000" />
     </task>
     <servers />
   </component>
